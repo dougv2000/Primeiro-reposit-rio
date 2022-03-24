@@ -1,4 +1,3 @@
-#Livro de Receitas
 
 Olá, esse é o meu primeiro repositório no GIT.
 
